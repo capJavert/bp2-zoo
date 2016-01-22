@@ -1,6 +1,8 @@
-My Yii2 Advanced Project Template
+My Yii2 Advanced Project Template - ZooAPP
 ===============================
 
-Has some minor modification and less integration. Nothing special really..
+Quick database manipulation in frontend for collage seminar purposes.
+
+database dump included.
 
 Documentation is at [docs/guide/README.md](docs/guide/README.md).
